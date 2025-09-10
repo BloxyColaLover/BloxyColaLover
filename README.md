@@ -1,2 +1,2 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=BloxyColaLover)
+![Profile Kitties counter on GitHub](https://komarev.com/ghpvc/?username=BloxyColaLover)
 
